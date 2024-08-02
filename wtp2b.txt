@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> example of html frames </title>
+</head>
+<frameset rows="20%","60%","20%">
+<frame name = "top src=c:user/drama/htmlprogram">
+<frame name = "middle src=c:user/play/htmlprogram">
+<frame name = "bottom src=c:user/science/htmlprogram">
+
+</frameset>
+</html>

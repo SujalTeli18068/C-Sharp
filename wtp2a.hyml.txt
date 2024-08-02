@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Implementation of different tags </title>
+</head>
+<body bgcolor="white" align="center">
+<small> An example of small text </small>
+<big> Example of small text </big>
+<em> example of italic text </em>
+<div> Division tag </div>
+</body>
+</html>
